@@ -1,0 +1,8 @@
+tags
+test.sh
+.luarc.json
+nvim
+init-old.lua
+
+spell/
+lazy-lock.json
